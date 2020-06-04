@@ -1,2 +1,2 @@
 # passwordit
-A program to generate random passwords for files in a directory
+A C++ program to generate random passwords for files in a directory
